@@ -2,4 +2,9 @@
     <string name="app_name">MeuPrimeiroApp</string>
     <string name="edit_message">Escreva uma mensagem</string>
     <string name="button_send">Envie</string>
+    <string name="nome">nome</string>
+    <string name="ra">ra</string>
+    <string name="idade">idade</string>
+    <string name="curso">curso</string>
+    <string name="semestre">semestre</string>
 </resources>
